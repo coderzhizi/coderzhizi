@@ -1,4 +1,4 @@
-## Hello GitHub  👋
+## Hello GitHub Everyone 👋
 
 ### I'm zhizi
 
