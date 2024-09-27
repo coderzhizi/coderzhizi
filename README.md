@@ -1,6 +1,7 @@
 ## Hello GitHub Friends 👋
 
 ### I'm zhizi
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My+Name+is+zhizi;nice+to+meet+you)
 
 - A Frontend coder.
 - Currently working in Beijing, China.
