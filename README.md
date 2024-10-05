@@ -26,6 +26,4 @@
 - [暂无](future)
 ### 关于我
 
-> ***前端开发工程师 in autohome***
-
-⭐️ From [JoeyBling](https://github.com/JoeyBling)
+> ***前端开发工程师 in autohome(汽车之家)***
